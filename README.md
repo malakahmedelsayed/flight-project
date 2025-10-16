@@ -132,4 +132,7 @@ docker-compose down -v
 - Kafka topic: **`flights`**  
 - Postgres DB: **flights_project**  
 - Streamlit UI shows flight map with status colors (On Time / Delayed / Cancelled).  
-- All services are containerized and orchestrated via **Docker Compose**.  
+- All services are containerized and orchestrated via **Docker Compose**.
+
+- <img width="1910" height="940" alt="لقطة شاشة 2025-10-16 041449" src="https://github.com/user-attachments/assets/c1a3d9e7-7295-44da-9b8e-d377fa2da8da" />
+
