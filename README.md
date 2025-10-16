@@ -136,3 +136,11 @@ docker-compose down -v
 
 - <img width="1910" height="940" alt="لقطة شاشة 2025-10-16 041449" src="https://github.com/user-attachments/assets/c1a3d9e7-7295-44da-9b8e-d377fa2da8da" />
 
+<img width="1892" height="899" alt="لقطة شاشة 2025-10-16 041953" src="https://github.com/user-attachments/assets/465c19e5-9544-4cb0-be8f-78a47b74cf1c" />
+
+<img width="1891" height="911" alt="لقطة شاشة 2025-10-16 161339" src="https://github.com/user-attachments/assets/9476fd69-f32a-49c2-bd11-7a30018ae36d" />
+<img width="1914" height="912" alt="لقطة شاشة 2025-10-16 161351" src="https://github.com/user-attachments/assets/21752486-6a24-420d-8a30-1376df6c4eb1" />
+
+
+
+
